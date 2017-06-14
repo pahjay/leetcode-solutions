@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4b4cdb-0468-40ee-8799-139951585934" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ArithmeticSlices_413_Med.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ArrayPartitionI_561_Easy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ConvertBSTtoGreaterTree_538_Medium.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/_3_Medium_LongestSubstringWithoutRepeatingChars.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/_617_Easy_MergeTwoBinaryTrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/AddTwoNumbers$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/AddTwoNumbers.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/Medium_2_AddTwoNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ArithmeticSlices_413_Med.java" afterPath="$PROJECT_DIR$/Medium_413_ArithmeticSlices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ArrayPartitionI_561_Easy.java" afterPath="$PROJECT_DIR$/Easy_561_ArrayPartitionI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ConvertBSTtoGreaterTree_538_Medium.java" afterPath="$PROJECT_DIR$/Medium_538_ConvertBSTtoGreaterTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CountingBits.java" afterPath="$PROJECT_DIR$/Medium_338_CountingBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DetectCapital_520_Easy.java" afterPath="$PROJECT_DIR$/Easy_520_DetectCapital.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DisappearingNums_448_Easy.java" afterPath="$PROJECT_DIR$/Easy_448_DisappearingNums.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DistributeCandies.java" afterPath="$PROJECT_DIR$/Easy_575_DistributeCandies.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindBottomLeftTreeValue.java" afterPath="$PROJECT_DIR$/Medium_513_FindBottomLeftTreeValue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FizzBuzz.java" afterPath="$PROJECT_DIR$/Easy_412_FizzBuzz.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HammingDistance.java" afterPath="$PROJECT_DIR$/Easy_461_HammingDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IslandPerimeter.java" afterPath="$PROJECT_DIR$/Easy_463_IslandPerimeter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KeyboardRow.java" afterPath="$PROJECT_DIR$/Easy_500_KeyboardRow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestUncommonSubsequenceI.java" afterPath="$PROJECT_DIR$/Easy_521_LongestUncommonSubsequenceI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaxBinaryTreeDepth_104_Easy.java" afterPath="$PROJECT_DIR$/Easy_104_MaxBinaryTreeDepth.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaxConsecutiveOnes.java" afterPath="$PROJECT_DIR$/Easy_485_MaxConsecutiveOnes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumIndexSumOfTwoLists.java" afterPath="$PROJECT_DIR$/Easy_599_MinimumIndexSumOfTwoLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NextGreaterElementI.java" afterPath="$PROJECT_DIR$/Easy_496_NextGreaterElementI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NimGame.java" afterPath="$PROJECT_DIR$/Easy_292_NimGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberComplement.java" afterPath="$PROJECT_DIR$/Easy_476_NumberComplement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/QueueReconstructionByHeight.java" afterPath="$PROJECT_DIR$/Medium_406_QueueReconstructionByHeight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseString.java" afterPath="$PROJECT_DIR$/Easy_344_ReverseString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SingleNumber_136_Easy.java" afterPath="$PROJECT_DIR$/Easy_136_SingleNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TeemoAttacking_495_Medium.java" afterPath="$PROJECT_DIR$/Medium_495_TeemoAttacking.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_3_Medium_LongestSubstringWithoutRepeatingChars.java" afterPath="$PROJECT_DIR$/Medium_3_LongestSubstringWithoutRepeatingChars.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_617_Easy_MergeTwoBinaryTrees.java" afterPath="$PROJECT_DIR$/Easy_617_MergeTwoBinaryTrees.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/CountingBits.class" afterPath="$PROJECT_DIR$/out/production/leetcode/CountingBits.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/leetcode/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,26 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Easy_521_LongestUncommonSubsequenceI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy_521_LongestUncommonSubsequenceI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Easy_485_MaxConsecutiveOnes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy_485_MaxConsecutiveOnes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Easy_599_MinimumIndexSumOfTwoLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy_599_MinimumIndexSumOfTwoLists.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -140,11 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TwoSum.java">
+      <file leaf-file-name="Easy_1_TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy_1_TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+              <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Easy_21_MergeTwoSortedLinkedLists.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -203,6 +168,9 @@
         <option value="$PROJECT_DIR$/Easy_476_NumberComplement.java" />
         <option value="$PROJECT_DIR$/Medium_406_QueueReconstructionByHeight.java" />
         <option value="$PROJECT_DIR$/Easy_344_ReverseString.java" />
+        <option value="$PROJECT_DIR$/Easy_1_TwoSum.java" />
+        <option value="$PROJECT_DIR$/ListNode.java" />
+        <option value="$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java" />
       </list>
     </option>
   </component>
@@ -778,12 +746,12 @@
       <workItem from="1497369026371" duration="827000" />
       <workItem from="1497369902188" duration="5638000" />
       <workItem from="1497375693093" duration="4194000" />
-      <workItem from="1497456777759" duration="4109000" />
+      <workItem from="1497456777759" duration="5303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45465000" />
+    <option name="totallyTimeSpent" value="46659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -801,7 +769,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -866,22 +834,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy_520_DetectCapital.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy_448_DisappearingNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy_104_MaxBinaryTreeDepth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -1266,10 +1218,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/Easy_1_TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding />
         </state>
       </provider>
