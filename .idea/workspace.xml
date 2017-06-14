@@ -15,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Easy_599_MinimumIndexSumOfTwoLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy_599_MinimumIndexSumOfTwoLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Easy_496_NextGreaterElementI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy_496_NextGreaterElementI.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Easy_21_MergeTwoSortedLinkedLists.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Easy_21_MergeTwoSortedLinkedLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Easy_141_LinkedListCycle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy_141_LinkedListCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -171,6 +171,7 @@
         <option value="$PROJECT_DIR$/Easy_1_TwoSum.java" />
         <option value="$PROJECT_DIR$/ListNode.java" />
         <option value="$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java" />
+        <option value="$PROJECT_DIR$/Easy_141_LinkedListCycle.java" />
       </list>
     </option>
   </component>
@@ -746,12 +747,12 @@
       <workItem from="1497369026371" duration="827000" />
       <workItem from="1497369902188" duration="5638000" />
       <workItem from="1497375693093" duration="4194000" />
-      <workItem from="1497456777759" duration="5303000" />
+      <workItem from="1497456777759" duration="5819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46659000" />
+    <option name="totallyTimeSpent" value="47175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -834,14 +835,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy_104_MaxBinaryTreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy_561_ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1237,7 +1230,15 @@
     <entry file="file://$PROJECT_DIR$/Easy_21_MergeTwoSortedLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy_141_LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
