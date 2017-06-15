@@ -9,7 +9,7 @@ public class Easy_141_LinkedListCycle {
        ListNode tortoise = head;
        ListNode hare = head;
 
-       while (tortoise.next != null && hare.next.next != null) {
+       while (hare.next != null && hare.next.next != null) {
             tortoise = tortoise.next;
             hare = hare.next.next;
             if (tortoise == hare) return true;
